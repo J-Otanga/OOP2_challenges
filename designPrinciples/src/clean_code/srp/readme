@@ -1,0 +1,1 @@
+Each class should do only one job. If a class is handling more than one responsibility, it's harder to maintain and test.

@@ -1,0 +1,1 @@
+If class B is a subclass of class A, we should be able to use B wherever A is used, without breaking the code.

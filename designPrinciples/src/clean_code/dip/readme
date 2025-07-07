@@ -1,0 +1,1 @@
+Depend on interfaces, not concrete classes. This makes code more flexible and testable
